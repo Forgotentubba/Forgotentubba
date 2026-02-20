@@ -1,5 +1,3 @@
-Carlos Daniel 
-
 ** Desenvolvedor front-end**
 
 Me chamo Daniel, sou programador front-end, tenho 25 anos e sou natural da Bahia.
