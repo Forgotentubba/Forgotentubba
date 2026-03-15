@@ -41,9 +41,27 @@ Busco oportunidades para crescimento profissional na área de TI.
 
 </p>
 
-<br/><br/><br/><br/><br/><br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+---
 
-📫 Contato
+## 📫 Contato
 
-💼 LinkedIn:linkedin.com/in/carlos-daniel-329a84391
-📧 Email:carlosdanielsantoscorreia@gmail.com
+<p align="center">
+<a href="mailto:seuemail@email.com">
+<img src="https://img.shields.io/badge/Email-Daniel-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/seu-linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-Daniel-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Forgotentubba">
+<img src="https://img.shields.io/badge/GitHub-Daniel-black?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
