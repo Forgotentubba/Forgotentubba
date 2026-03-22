@@ -63,7 +63,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Daniel-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://github.com/Forgotentubba">
+  <a href="https://github.com/Forgotentubba" target="blank">
     <img src="https://img.shields.io/badge/GitHub-Daniel-black?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
