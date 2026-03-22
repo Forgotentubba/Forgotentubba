@@ -55,11 +55,11 @@
 ## 📫 Entre em Contato
  
 <p align="center">
-  <a href="mailto:seuemail@email.com">
+  <a href="mailto:seuemail@email.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Daniel-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/carlos-daniel-329a84391/">
+  <a href="https://www.linkedin.com/in/carlos-daniel-329a84391/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Daniel-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
