@@ -22,7 +22,7 @@
 - 🎯 Foco em me tornar **Full Stack Developer**
 - 📚 Interesse constante em **aprendizado contínuo** e **boas práticas**
 - ⚡ Obcecado com **performance** e **organização de código**
-- 🚀 Em evolução constante tanto no **Front-End** quanto no **Back-End** me esforçando para **FullStack**
+- 🚀 Em evolução constante tanto no **Front-End** quanto no **Back-End** me esforçando para **Full-Stack**
 - 💼 Buscando **oportunidades de crescimento profissional** na área de TI
  
 ---
