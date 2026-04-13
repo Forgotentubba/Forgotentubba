@@ -2,7 +2,7 @@
  
 # Olá, eu sou o Daniel! 👋
  
-### 💻 Desenvolvedor Front-End · 🚀 Em transição para Full Stack
+### 💻 Desenvolvedor Front-End · 🚀 Em transição para a área
  
 <p>
   Baiano de coração, 25 anos, apaixonado por tecnologia e em constante evolução.<br/>
